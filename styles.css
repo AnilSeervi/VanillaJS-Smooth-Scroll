@@ -39,7 +39,7 @@ p {
 .img {
   width: 100%;
   height: 300px;
-  background: url(/4zXn3TjVTcA_Unknown.jpg) no-repeat 50% 50%;
+  background: url(./4zXn3TjVTcA_Unknown.jpg) no-repeat 50% 50%;
   background-size: cover;
   margin: 40px auto;
 }
